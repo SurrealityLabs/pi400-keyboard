@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name suf_led_display)(type Legacy)(uri ${KIPRJMOD}/suf_led_display.lib)(options "")(descr ""))
+  (lib (name holtek)(type Legacy)(uri ${KIPRJMOD}/holtek.lib)(options "")(descr ""))
+)
