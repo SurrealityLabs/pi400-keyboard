@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MCU_RaspberryPi_and_Boards")(type "Legacy")(uri "${KIPRJMOD}/MCU_RaspberryPi_and_Boards.lib")(options "")(descr ""))
+  (lib (name "keyboard-test-rescue")(type "KiCad")(uri "${KIPRJMOD}/keyboard-test-rescue.kicad_sym")(options "")(descr ""))
+)
